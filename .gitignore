@@ -1,0 +1,7 @@
+# Bỏ qua toàn bộ thư mục và tệp tin trong thư mục này
+*
+
+# Ngoại trừ các tệp cấu hình hiển thị trên GitHub
+!README.md
+!.gitignore
+!LICENSE
