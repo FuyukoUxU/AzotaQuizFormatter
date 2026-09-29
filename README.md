@@ -1,4 +1,4 @@
-# ⚡ Azota Quiz Formatter
+# Azota Quiz Formatter
 
 <p align="center">
   <img src="https://img.shields.io/badge/Release-v1.0.0-indigo?style=for-the-badge&logo=github" alt="Release Version">
@@ -11,7 +11,7 @@ Công cụ tự động chuẩn hóa định dạng đề thi trắc nghiệm (W
 
 ---
 
-## ✨ Tính năng chính
+## Tính năng chính
 - **Chuẩn hóa tự động**: Chuyển đổi đề thi trắc nghiệm lộn xộn sang định dạng chuẩn Azota (.docx hoặc .txt).
 - **Tách file thông minh**: Hỗ trợ chia nhỏ đề thi thành nhiều file nhỏ, tùy chọn đánh lại số thứ tự từ 1 cho mỗi file.
 - **Xử lý siêu tốc**: Tự động chia nhỏ văn bản để gửi song song lên API, tăng tốc độ xử lý đối với các đề thi dài.
@@ -20,7 +20,7 @@ Công cụ tự động chuẩn hóa định dạng đề thi trắc nghiệm (W
 
 ---
 
-## 🚀 Hướng dẫn nhanh
+## Hướng dẫn nhanh
 1. Tải file **AzotaQuizFormatter.exe** từ mục [Releases](../../releases).
 2. Mở ứng dụng.
    > **Mẹo**: Nếu xuất hiện cảnh báo xanh Windows SmartScreen, bạn chọn **More info** (Thông tin thêm) ➜ chọn **Run anyway** (Vẫn chạy) để mở phần mềm.
@@ -30,7 +30,7 @@ Công cụ tự động chuẩn hóa định dạng đề thi trắc nghiệm (W
 
 ---
 
-## 🛠️ Liên hệ hỗ trợ
+## Liên hệ hỗ trợ
 Mọi thắc mắc hoặc báo lỗi vui lòng liên hệ:
 - **Tác giả**: FuyukoUxU
 - **Facebook**: [fb.com/xyt712114](https://facebook.com/xyt712114)
